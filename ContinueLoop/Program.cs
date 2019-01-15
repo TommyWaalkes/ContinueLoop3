@@ -10,6 +10,7 @@ namespace ContinueLoop
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World! C# is super fun! \a");
             bool run = true;
             while(run == true)
             {
